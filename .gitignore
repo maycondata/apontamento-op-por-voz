@@ -1,0 +1,7 @@
+*.webm
+*.wav
+*.mp3
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
