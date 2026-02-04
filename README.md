@@ -13,7 +13,7 @@ O usuário fala, ex: **"Apontar OP 1015"**, o sistema transcreve com Whisper, ex
 - Resposta em áudio com gTTS
 - Registro do apontamento em `apontamentos.csv`
 
-- ## Pré-requisitos
+## Pré-requisitos
 - Permitir acesso ao microfone no navegador (Google Colab)
 - Whisper pode exigir ffmpeg no ambiente
 - gTTS requer internet para sintetizar o áudio
