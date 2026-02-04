@@ -1,5 +1,7 @@
 # MVP – Apontamento de OP por Voz (Whisper + gTTS + CSV)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maycondata/apontamento-op-por-voz/blob/main/Assistente_de_Apontamento_Industrial_por_Voz.ipynb)
+
 Este projeto é um MVP 100% gratuito (sem API paga) para **apontamento de Ordem de Produção (OP) por voz**.
 O usuário fala, ex: **"Apontar OP 1015"**, o sistema transcreve com Whisper, extrai a OP, pede confirmação (**sim/não**) e salva o resultado em **CSV**.
 
