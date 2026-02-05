@@ -5,6 +5,20 @@
 Este projeto é um MVP 100% gratuito (sem API paga) para **apontamento de Ordem de Produção (OP) por voz**.
 O usuário fala, ex: **"Apontar OP 1015"**, o sistema transcreve com Whisper, extrai a OP, pede confirmação (**sim/não**) e salva o resultado em **CSV**.
 
+## Demo
+
+> Observação: os números de OP nas imagens são apenas exemplos — o sistema funciona com qualquer OP falada.
+
+**1) Gravação do comando (voz)**
+![Demo 1 - Gravação](assets/demo_01_gravacao.png)
+
+**2) Transcrição + extração da OP + confirmação (sim/não)**
+![Demo 2 - Confirmação](assets/demo_02_confirmacao.png)
+
+**3) Registro em CSV com timestamp**
+![Demo 3 - CSV](assets/demo_03_csv.png)
+
+
 ## Funcionalidades
 - Gravação de áudio no navegador (Google Colab + JavaScript)
 - Speech-to-Text com Whisper (rodando local no Colab)
