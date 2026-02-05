@@ -69,3 +69,7 @@ Campos:
 - Capturar quantidade boa/refugo
 - Motivos de parada (dropdown por voz)
 - Dashboard simples com os apontamentos
+
+- ## Nota
+Projeto publicado para fins de estudo e portfólio.
+
